@@ -8,7 +8,7 @@ import org.coderetreat.ejercicio1.bean.Cell;
 
 /**
  *
- * @author rugi
+ * @author rugi,misaelpc
  */
 public interface IPintable {
     void init();

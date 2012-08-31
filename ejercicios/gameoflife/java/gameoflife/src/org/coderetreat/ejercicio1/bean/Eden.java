@@ -15,7 +15,7 @@ import org.coderetreat.ejercicio1.ui.Reality;
  * Aqui la implementación que quedo inconclusa ese día.
  * La propuesta es resultado del un diseño propuesto junto con @misaelpc
  * 
- * @author rugi
+ * @author rugi,misaelpc
  */
 public class Eden {
 

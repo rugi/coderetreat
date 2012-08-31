@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 
 /**
  * Clase con mètodos requeridos para unir, una realidad con un juego de la vida.
- * @author rugi
+ * @author rugi,misaelpc
  */
 public class Demiurgo implements IPangeable {
 

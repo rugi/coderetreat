@@ -6,7 +6,7 @@ package org.coderetreat.ejercicio1.bean;
 
 /**
  *
- * @author rugi
+ * @author rugi,misaelpc
  */
 public interface IPangeable {
        Cell[][] generatePangea(byte size);       

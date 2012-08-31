@@ -13,7 +13,7 @@ import org.coderetreat.ejercicio1.bean.Cell;
 
 /**
  *
- * @author rugi
+ * @author rugi,misaelpc
  */
 public class Reality extends JFrame implements IPintable {
 
