@@ -30,7 +30,7 @@ public class Eden {
         // Requerimos un $DEITY creador
         Demiurgo ourobouros = new Demiurgo();
         //El demiurgo genera la 1a realidad
-        Cell[][] matrizInicial = ourobouros.generatePangea(SIZE_UNIVERSE);
+        Cell[][] matrizInicial = ourobouros.generatePangea(SIZE_UNIVERSE, Demiurgo.GENESIS_GLIDER);
         do {
             //mostramos ese mundo a través de nuestra realidad
             realidad.muestra(matrizInicial);

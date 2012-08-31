@@ -56,8 +56,7 @@ public class Cell implements IRuleable {
         this.status = status;
     }
 
-    public boolean isAlive() {        
-        //return Math.round(Math.random()) % 2 == 0 ? true : false;
+    public boolean isAlive() {                
         return evaluateRules();
     }
 
